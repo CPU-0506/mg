@@ -1,0 +1,18 @@
+Lab Programs
+    Exercise 1.1 - variant 1
+    Exercise 1.1 - variant 2
+    Exercise 1.2
+    Exercise 1.3
+    Exercise 2.1
+    Exercise 3.1.1
+    Exercise 3.1.2
+
+Miscellaneous:
+    first.cpp
+    prog1.cpp(Adding two numbers)
+    prog2.cpp(Finding simple interest)
+    prog3.cpp(To find area and perimeter of a rectangle)
+    prog4.cpp(To print ASCII value of a character)
+    prog5.cpp(To demonstrate public, private, and protected access specifiers)
+    prog6.cpp(To exchange values between two classes using friend function)
+    prog7.cpp(To demonstrate overloading contructor)
